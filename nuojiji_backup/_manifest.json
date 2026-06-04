@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780577348389,
+  "timestamp": 1780577358825,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -61,5 +61,9 @@
     "healthProfile",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true,
+    "worldBooks": true
+  },
   "inProgress": true
 }

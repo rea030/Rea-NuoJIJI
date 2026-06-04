@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780577553590,
+  "timestamp": 1780577610420,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -98,7 +98,17 @@
     "imageStore": true,
     "stickerStore": true,
     "quickReplies": true,
-    "goingOutState": true
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true,
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "wallpapers": true,
+    "whiteDogData": true,
+    "isekaiSaves": true,
+    "pomodoroData": true,
+    "regexRules": true
   },
   "inProgress": true
 }

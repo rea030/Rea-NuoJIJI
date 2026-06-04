@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780577427843,
+  "timestamp": 1780577484142,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -75,7 +75,17 @@
     "memory": true,
     "summaryEntries": true,
     "callLogs": true,
-    "roleStickers": true
+    "roleStickers": true,
+    "tmSessions": true,
+    "tmStories": true,
+    "multiSceneSessions": true,
+    "multiSceneStories": true,
+    "multiSceneCastSettings": true,
+    "multiSceneSessionSettings": true,
+    "multiSceneSessionSummaries": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "groupSettings": true
   },
   "inProgress": true
 }

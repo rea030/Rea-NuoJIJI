@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781024754293,
+  "timestamp": 1781024756229,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -118,5 +118,5 @@
     "healthProfile": true,
     "_migration": true
   },
-  "inProgress": true
+  "inProgress": false
 }
